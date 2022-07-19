@@ -23,6 +23,7 @@ Visit my [website](https://www.castigliadaniele.it/).
 #### Technologies
 
 - MySQL
+- Microsoft SQL
 - Docker
 
 #### Operating System
