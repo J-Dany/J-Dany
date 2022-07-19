@@ -1,4 +1,4 @@
-## Hello! 👋🏻 Welcome to Daniele Castiglia's GitHub Repo
+## Hello! 👋🏻
 
 Hi! My name is **Daniele Castiglia** 🧑🏻‍ and I'm 20.
 
