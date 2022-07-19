@@ -6,6 +6,8 @@ Hi! My name is **Daniele Castiglia** 🧑🏻‍ and I'm 20.
 
 ### 🌐 Links
 
+You can find me here:
+
 ### 🛎 Need something?
 
 Send me an email: castiglia.daniele@outlook.com
