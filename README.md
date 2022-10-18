@@ -2,8 +2,6 @@
 
 Hi! My name is **Daniele Castiglia** 🧑🏻‍ and I'm 20.
 
-Visit my [website](https://www.castigliadaniele.it/).
-
 ### 💪🏻 Skills 
 
 #### Programming languages
