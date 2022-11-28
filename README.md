@@ -27,7 +27,7 @@ Hi! My name is **Daniele Castiglia** 🧑🏻‍ and I'm 20.
 #### Operating System
 
 - Windows 10
-- Linux (Ubuntu, Debian)
+- Linux (Ubuntu, Debian, Raspbian)
 
 ### 🌐 Links
 
