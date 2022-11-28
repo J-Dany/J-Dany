@@ -33,7 +33,8 @@ Hi! My name is **Daniele Castiglia** 🧑🏻‍ and I'm 20.
 
 You can find me here:
 
-[![instagram](images/instagram.svg)](https://www.instagram.com/deno.js/) [![instagram](images/linkedin.svg)](https://www.linkedin.com/in/daniele-castiglia-867870205/)
+- [Instagram](https://www.instagram.com/deno.js/)
+- [Linked In](https://www.linkedin.com/in/daniele-castiglia-867870205/)
 
 ### 🛎 Need something?
 
