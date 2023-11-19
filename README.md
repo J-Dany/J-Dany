@@ -1,6 +1,6 @@
 ## Hello! 👋🏻
 
-Hi! My name is **Daniele Castiglia** 🧑🏻‍ and I'm 21. Email me at [castiglia.daniele@outlook.com](email:castiglia.daniele@outlook.com).
+Hi! My name is **Daniele Castiglia** 🧑🏻‍ and I'm 21. Email me at **email:castiglia.daniele@outlook.com**.
 
 ### 💪🏻 Skills 
 
