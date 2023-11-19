@@ -1,6 +1,6 @@
 ## Hello! 👋🏻
 
-Hi! My name is **Daniele Castiglia** 🧑🏻‍ and I'm 20.
+Hi! My name is **Daniele Castiglia** 🧑🏻‍ and I'm 21. Email me at [castiglia.daniele@outlook.com](email:castiglia.daniele@outlook.com).
 
 ### 💪🏻 Skills 
 
@@ -42,7 +42,3 @@ You can find me here:
 
 - [Instagram](https://www.instagram.com/deno.js/)
 - [Linked In](https://www.linkedin.com/in/daniele-castiglia-867870205/)
-
-### 🛎 Need something?
-
-Send me an email: castiglia.daniele@outlook.com
